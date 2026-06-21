@@ -222,7 +222,7 @@ export default function App() {
                 { id: 'dashboard', icon: <LayoutDashboard size={20} />, label: 'Home' },
                 { id: 'gallery', icon: <ImageIcon size={20} />, label: 'Vault' },
                 { id: 'birthday', icon: <Gift size={20} />, label: 'Cake' },
-                { id: "letter", label: "Letters 📜" },
+                { id: "letter", label: "Letter 📜" },
                 showSettings && { id: 'settings', icon: <Settings size={20} />, label: 'Settings' }
               ].filter(Boolean).map((tab) => (
                 <button
