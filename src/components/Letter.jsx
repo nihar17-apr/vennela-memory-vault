@@ -3,9 +3,7 @@ export default function Letter() {
     <div className="min-h-screen flex justify-center items-center p-20">
       <div className="max-w-4xl w-full bg-white/10 backdrop-blur-xl border border-white/20 rounded-3xl p-10 shadow-2xl">
 
-        <h1 className="text-5xl font-bold text-center text-pink-400 mb-10">
-            📜 Letter 1
-        </h1>
+       
 
         <div className="text-lg leading-10 text-gray-200 space-y-20">
 
@@ -29,20 +27,6 @@ export default function Letter() {
           <p>
             Next dhi enko letter lo kalusukundham........
           </p>
-
-
-        </div>
-      </div>
-
-
-      <div className="max-w-4xl w-full bg-white/10 backdrop-blur-xl border border-white/20 rounded-3xl p-10 shadow-2xl">
-
-        <h1 className="text-5xl font-bold text-center text-pink-400 mb-10">
-            📜 Letter 2
-        </h1>
-
-        <div className="text-lg leading-10 text-gray-200 space-y-20">
-
           <p>
              yekadah agamuu...
              Haa Na best friends rajeev and karthik inter lo 1st year anthee full chill ayiyamu okalu medah okalu  comedy chesthu first year ayipoyindhi....Still Ippudu ki vunnaru na tho touch lo daily kadhu gane week lo 2 or 3 days matlduthunnaru...Enkah Second year loki enter ayiyamu maku budget icharu sir's neku eni marks ravali ani second year max chadvu medah vunnah.. ee stories neku enduku chepputhunna anthee eni rojulu emi matldaledhu kadhah matlindhiey matladali ani vundi ne tho soo chepputhunah....ma friends tho ne tho communication yelah chesano telusu kadhah ma ammamma intiki velli akkadah phone lo chat cheseyvadini key-pad jio phone lo chinnah point kudah marchipoledhu entoo na mind power chala akkuvah ayipoyindhi...
@@ -57,18 +41,6 @@ export default function Letter() {
          <p>
           ee letter lo ee badha saripothundi see you soon.....
          </p>
-
-
-
-        </div>
-      </div>
-        <div className="max-w-4xl w-full bg-white/10 backdrop-blur-xl border border-white/20 rounded-3xl p-10 shadow-2xl">
-
-        <h1 className="text-5xl font-bold text-center text-pink-400 mb-10">
-            📜 Letter 3
-        </h1>
-
-        <div className="text-lg leading-10 text-gray-200 space-y-20">
 
           <p>
            Ni Birthday roju ee website isthunnah enduku anthee idhi chusii nuvvu full gah happy avali ani..ah sketch kudah naku sugar agakah neku petteysah kani adhi birthday ki ey vunchah ponele adhi yelago nachaledhu idhi atleast nachutadee emo chudam..
