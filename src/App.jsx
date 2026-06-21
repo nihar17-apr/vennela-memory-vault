@@ -184,7 +184,7 @@ export default function App() {
                     { id: 'dashboard', label: 'Dashboard', icon: <LayoutDashboard size={14} /> },
                     { id: 'gallery', label: 'Memory Gallery', icon: <ImageIcon size={14} /> },
                     { id: 'birthday', label: 'Birthday Special', icon: <Gift size={14} /> },
-                    { id: "letter", label: "Letters 📜" },
+                    { id: "letter", label: "Letter 📜" },
                     { id: "specialmessage", label: "Special Message 💌"},
                     showSettings && { id: 'settings', label: 'Vault Settings', icon: <Settings size={14} /> }
                   ].filter(Boolean).map((tab) => (
