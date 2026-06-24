@@ -212,7 +212,6 @@ export default function Login({ onLoginSuccess }) {
       {/* Small footer */}
       <div className="mt-8 text-[11px] text-zinc-400/80 dark:text-zinc-500 font-mono tracking-wider z-10 flex flex-col items-center">
         <span>Made with love for a very special person</span>
-        <span className="mt-1 opacity-70">Passcode Hint: DDMMYYYY (Vennela's Birthday)</span>
       </div>
     </div>
   );
