@@ -9,20 +9,23 @@ export default function SpecialMessage() {
 
         <div className="text-lg leading-10 text-gray-200 space-y-6">
           <p>
-            Idhi oka propose anipinchanii proposal na first love ila failure vipu velthundi ani aukoledhu i choose right person at a right time  
-            edo okate chesi ninnu dakinchukovali ani vundi kani 0.1 % edhi navipu ledhu..Ninnu annah matlauu chala gorrangah annah kani adhi naku kopam lo ochinah 
+            Please ee letter full gah chadvuu chala peddadhi gane okasarii nakosam chadvuu...nuvvu chadvuthe chala happy...
+            nenu nammukunnah hardword ,efforts tappah na vipu emi ledhu oka luck ledhu neku na meda feelings levu emi ledhu naku vunnadhi oka hardwork , efforts anthee nekosam pettinavi 
+            nekosam nenu yenthah hardwork ayinah efforts ayinah pedathah nuvvu nakosam ah feelings ni luck ni icheyochu gah vennela..endulo feelings anthe nee love luck anthe nuvvu
+            ave eppudu ki odhleykundhah chusthah...
+            Ninnu oct lo annah matlauu chala gorrangah annah kani adhi naku kopam lo ochinah ninnu ardam chesukokundhah ochinah 
             matalu nuvvu duram aipothavu emo ani kopam lo istham ochinah 
-            matalu  aneysah oka chance ivu vennela ninnu ardam chesukoni vunthah kopam yekadah chupinchaloo teliduu ninnu chala matalu aneysah okapkkah neku
+            matalu  aneysah oka chance ivu vennela ninnu ardam chesukoni vunthah kopam yekadah chupinchaloo teliduu ninnu chala matalu aneysah okapakkah neku
             pelli chestharu emo ani bayam maruoo pakkah nuvvu neat gah vundatledhu naku nuvvu chala chala important oka unbreakable bond ayipoyindhi naku ne tho...
             nuvvu emi annah nenu barishthah ardam chesukoni vunthah godvalu adanu neku edhi ayitee nachadhoo adhi chyanu na medah neku na feelings ocheylah emi ayinah chesthah vennela
-            naku ayitee ninnu marry chesukovali ani vundi direct gah cheppali anthee nuvvu nannu enduku tesukolekothunnavoo telidu kani ninnu ayitee ardam
-             chesukunthah na prema agadhu na opinion maradhu neku ichey value maradhu neku ichey priorites maravu.. Idhi chusiahkah nenu ayitee msg chyanu nuvvu unblock lo 
-             vunchu eppudu ayitenuvvu naku oka msg chesthavooo nenu ne kindhah vallipodaniki ready gah  vunthah vennela 
+            naku ayitee ninnu lifelong ne tho  vundali ani vundi direct gah cheppali anthe pelli chesukovali ... nuvvu nannu enduku tesukolekothunnavoo telidu kani ninnu ayitee ardam
+            chesukunthah na prema agadhu na opinion maradhu neku ichey value maradhu neku ichey priorites maravu.. Idhi chusiahkah nenu ayitee msg chyanu nuvvu unblock lo 
+            vunchu eppudu ayitenuvvu naku oka msg chesthavooo nenu ne  dagrah eppuduki odhlakundhah vundipodaniki ready gah  vunthah vennela 
             nannu nuvvu ardam chesukunthuavu enduku anthee mottam telusu na grunchi neku nee grunchi nakukonchamey telusu nuvvu ichey prema naku kavali 
             ee letter neku movie dailogues lah vunthay kani naku emi osthundoo adhi type chesthunnah 
             naa efforts eppudu ki waste kavvu vennela nuvvu idhi chusthee chaluu ninnu ardam chesukodaniki naku idhiey best time vennela ne tho 
             relation lo vundali ani vundi life long adhi kudah emi ayinah chesthah na medah nammakam pettuko pleasee
-            nenu asaluu badhah pettanu 365 days  12 months 52 weeks 8760 hrs 525600 min 31536000 ninnu ardam chesukunthah pleaseee idhi kevalam na mata 
+            nenu asaluu badhah pettanu 365 days  12 months 52 weeks 8760 hrs 525600 min 31536000 seconds ninnu ardam chesukunthah pleaseee idhi kevalam na mata 
             kadhu okasarii ochakah neku eh ardam avuthundii ne medah enkah naku possessiveness vunchukonu enkah  bad gah anipincheyy  relation lo asalu chyanu nuvvu emi 
             anthe adhiey chesthah nenu relation ki mundhu tarvthah okalah vundanu oka vellah vunte nannu question chesey right kudah vuntadee neku ah chance kudah ivvanu bavunthah 
             ne thoo oka pani cheyy vennela oka accept chesthe mee intlo vallu kudah nenu matldathah ne dagrah acceptance lekpothee nenu mee vuru kudah ralenuu
@@ -33,16 +36,12 @@ export default function SpecialMessage() {
             ne tho chala cool gah vunthah cool chestha naku enkah eh nammakam ivaloo teliduu cheppinah matalu eve abbadam kadhu prove chydaniki oka chance ivu ...neku enduku ichah 
             chance  ani jivetham lo badhahpadahnivanu vennela 
             failure vipu vellali ani ledhu naku neku pettinah efforts takkuvah ayitee na present intlo vunnah situation ki idhi akkuvah anukunthunnah kanii ninnu dakinchukovali 
-            anthe idhi saripodhu edhi ayinah  face to face ayitee bavuntadee kani nenu  ne mundh asaluu matladahlenu enduku anthee naku shiver tappah matalu ravu kani edaram set ayipoyakah 
+            anthe idhi saripodhu edhi ayinah  face to face ayitee bavuntadee kani nenu  ne mundh asaluu matladahlenu  naku shiver tappah matalu ravu kani edaram set ayipoyakah 
             neku eppudu disappoint chyanu vennela.. enkah neku trust icheyy words na dagrah enkah emi levu vunnah mundhu mundhu pedathah nuvvu anthee pichi prema ani annanu kani oka manshini 
-            yenthah extent dakah premisthanoo anthah chesthunnah ninnu oka accept na future nii  future  happy gah marustade ani nammkam vundi.. nuvvu enthah trouble isthunnavu anthee accept 
-            chytledhu adhi nah opinion trouble anthe kani still vunnah nekosam nakosam edarikosam 
-            oka understand tho long distnace relation ni cary chydam chala kashtam kani still nuvvu na pakkah lekunnah 5 to 6 years ayinah kalisi enkah anuloo 1 and half years block lo pettinah 
-            three time odhuu annah nenu malli ne dagrah kiey osthunah ochah  kudah naku entoo ive ani malli malli chadvuthunee movie dailogues lah vunnay kanii typee cheseysthunnah yenthah 
-            chesthunnanoo nakuey teliduu lopalah vunnadhi anthah bayataki ocheysindhi...
-            naa anthah lucky enkah yekadah ledhu anukunthah enduku anthee edarini block lo petti still ippudu ki ochi teyledhu i think valla kannah nenu akkuvah badhah petti block lo 
-            pettinchukunnah kani still nuvvu malli malli testhunnavu..
-            chala lucky nenu adhi koni days vuntee evaru ayinah badhah padatharu kadhah vennela na mata vinu never asalu ninnu odhleylenu nuvvu nannu odhu anukunnah..
+            yenthah extent dakah premisthanoo anthah chesthunnah ninnu oka accept na future nii  future  happy gah marustade ani nammkam vundi..
+            oka understand tho long distnace relation ni cary chydam chala kashtam vennela ayinah  nuvvu nenu  pakkah pakknah  lemu kalusukoledhu 5 to 6 years ayinindhi ninnu chusi  enkah anuloo 1 and half years block lo vunnah rojulu vunnay
+            three time odhuu annah nenu malli ne dagrah kiey osthunah ochah  kudah .. naa anthah lucky anthe oka vishyam lo edarini block lo petti still ippudu ki ochi teyledhu i think valla kannah nenu akkuvah badhah 
+            petti block lo  pettinchukunnah kani still nuvvu malli malli testhunnavu...
             nee tho matldahkundhah vundakpothe stress akkuvah ayipothundi oka sari accept chesahkah naku telusii aroju nidraa yenthah bagah padatade anthe cheppalenu 
             koma word saripothundi anthah nidra.. ee nyts padukunnah prasthangah padukovatledhu fan kindhah vunnah bonthah vesipadukunnah kindhah peacee radhu mind lo vunnah 
             oka ammayi gane life long vundi potadee ani anthee appudu ostadee chudu abbah ah nidrah bale vuntadee idhi chusi reply ivakpoyinah parledhu just nuvvu chusthee chaluu 
@@ -55,14 +54,21 @@ export default function SpecialMessage() {
             imagine ey chala bavundii vennela implement chesthe enkah idhi next level ki velthundi present ki idhi implement chesinah tarvthah ki tedah ento cheppahnah
             nenu stress tesukonu naku oka energy lagah vuntade ee badhah kanna ee plan implement chesthe goal ki reach aipothah nenu.. ee plan neku nachuthee oka message cheyu vennela 
             "HI" ani enkah next nunchi heaven anthe chupisthah over gah chyanu edhi full ethical love ey vuntade.. nuvvu enkah unblock lo vunchinah nenu msg chyanu ala ani block ayite chyaku
-            any need neku msg chyali kadha
+            any need vunte neku msg chyadaniki vuntade 
             soo vunchu nee msg kosam wait chesthah......enka okate idhi nachakpothee delete chesey evariki cheppaku naku adhi oka bayam vundi evariki cheppeystade emo ani maximum cheppavu le
-            ah minimum cheppeysthavoo emo ani bayam ah pani ayite chyak..
-            Final gah enduloo nenu over gah emi ayinah chesivuntee sorry naku matldam radhu ne tho neku enduloo edhi ayinah nachakpothe hurt chesi vunte sorry...nalo vunnadhi anthah cheppah anthe tappah 
+            ah minimum cheppeysthavoo emo ani bayam ah pani ayite chykuu..ee letter ne birthday roju  kannah 6 days mundhu cheseysah kani prathi roju edo okate add chesthunah peddadhi aipothundi yenthah fast gah ravali anii korukunnah ne bdy ni... 
+            roju ki padisarlu chusukunnah ah website ni bavundah ledhah ani letter special message lo baa matldahnah ledhah ani 
+            nachindhi ani cheppu gali lo vunthah ah mata gane annavu anthee..
+            Final gah enduloo nenu over gah emi ayinah chesivuntee sorry naku matldam radhu ne tho ...neku enduloo edhi ayinah nachakpothe hurt chesi vunte sorry...nalo vunnadhi anthah cheppah anthe tappah 
             ninnu ibbandhi pettali ani kadhu enkah deni grunchii akkuvah alochinchaku placements vunnay gah nenu idhi pettindhii ee website chusii ventaneyy accept cheseythavu ani chesah ...kanii emo cheppahlenu emi jargutadhoo 
             oka sari nannu accept cheseythee enkah naa brain lo sagam tension potade roju okalanthi alochanalu ravuu vennela accept chesthadah chydahah ? ani alochinchi alochinchi over thinker aipoyah idhi antha ...
-            relation ki mundhu vunthay oka sarii okay cheppeysthe mind free gah vuntade ...enko sari aguthunnah vennela oka sarii only nannu only mind lo nannu accept chey 
-            heartfull gah enkah last min varuku ne tho manchi gah vunthah......Amma luki Nanna luki cheppaku main gah annaya luki idhi na request.......
+            relation ki mundhu vunthay oka sarii okay cheppeysthe mind free gah vuntade ...enko sari aduguthunnah vennela oka sarii only nannu  mind lo nannu accept chey 
+            heartfull gah enkah last min varuku ne tho ardam chesukoni vunthah.........
+          </p>
+          <p>
+            SUMMMARY:- EE letter chudadaniki peddagah vundi roju rasi rasi pedadhi aipothundi nuvvu idhi chadviahkah naku oka chance ivali ani anukunthe edaram oka understnad tho ne pelli age varuku happy gah vuntee neku Hi ani oka message chymannah 
+            dani tho nee life ni eppudu varuku na valla hurt ayinavi grthuchesukonivanu anthah happy gah vunchuthah.. neku istham lekpothe naku emi msg pettaku idhi ee letter ki ee special message ki reply kudah ivvaku okayy nah...
+
           </p>
           <p>
             I AM WAITING FOR ONE MESSAGE.....
@@ -70,9 +76,7 @@ export default function SpecialMessage() {
           <p className="text-right text-pink-400 font-semibold">
             With Best Wishes ❤️
           </p>
-
         </div>
-
       </div>
     </div>
   );
