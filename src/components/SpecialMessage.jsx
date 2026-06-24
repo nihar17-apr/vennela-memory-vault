@@ -54,12 +54,21 @@ export default function SpecialMessage() {
             emi ayinah neku avvani roju nenu ardam chesukoni vuntee stable gah vuntade kadhah roju roju ki nammakam kudah ostadee oka sari job ochakah edaram happy gah matldukochu kadhah
             imagine ey chala bavundii vennela implement chesthe enkah idhi next level ki velthundi present ki idhi implement chesinah tarvthah ki tedah ento cheppahnah
             nenu stress tesukonu naku oka energy lagah vuntade ee badhah kanna ee plan implement chesthe goal ki reach aipothah nenu.. ee plan neku nachuthee oka message cheyu vennela 
-            "HI" ani enkah next nunchi heaven anthe chupisthah over gah chyanu edhi full ethical love ey vuntade.. nuvvu enkah unblock lo vunchinah nenu msg chyanu ala ani block ayite chyaku any need neku msg chyali kadha
-            soo vunchu nee msg kosam wait chesthah......enka okate idhi nachakpothee delete chesey evariki cheppaku naku adhi oka bayam vundi evariki cheppeystade emo ani maximum cheppavu le ah minimum cheppeysthavoo emo ani bayam ah pani ayite chyak..
-            Final gah enduloo nenu over gah emi ayinah chesivuntee sorry naku matldam radhu ne tho neku enduloo edhi ayinah nachakpothe hurt chesi vunte sorry...nalo vunnadhi anthah cheppah anthe tappah ninnu ibbandhi pettali ani force chyali ani emi kadhuu...
+            "HI" ani enkah next nunchi heaven anthe chupisthah over gah chyanu edhi full ethical love ey vuntade.. nuvvu enkah unblock lo vunchinah nenu msg chyanu ala ani block ayite chyaku
+            any need neku msg chyali kadha
+            soo vunchu nee msg kosam wait chesthah......enka okate idhi nachakpothee delete chesey evariki cheppaku naku adhi oka bayam vundi evariki cheppeystade emo ani maximum cheppavu le
+            ah minimum cheppeysthavoo emo ani bayam ah pani ayite chyak..
+            Final gah enduloo nenu over gah emi ayinah chesivuntee sorry naku matldam radhu ne tho neku enduloo edhi ayinah nachakpothe hurt chesi vunte sorry...nalo vunnadhi anthah cheppah anthe tappah 
+            ninnu ibbandhi pettali ani kadhu enkah deni grunchii akkuvah alochinchaku placements vunnay gah nenu idhi pettindhii ee website chusii ventaneyy accept cheseythavu ani chesah ...kanii emo cheppahlenu emi jargutadhoo 
+            oka sari nannu accept cheseythee enkah naa brain lo sagam tension potade roju okalanthi alochanalu ravuu vennela accept chesthadah chydahah ? ani alochinchi alochinchi over thinker aipoyah idhi antha ...
+            relation ki mundhu vunthay oka sarii okay cheppeysthe mind free gah vuntade ...enko sari aguthunnah vennela oka sarii only nannu only mind lo nannu accept chey 
+            heartfull gah enkah last min varuku ne tho manchi gah vunthah......
           </p>
           <p>
             I AM WAITING FOR ONE MESSAGE.....
+          </p>
+           <p className="text-right text-pink-400 font-semibold">
+            Amma luki Nanna luki cheppaku main gah annaya luki idhi na request.......
           </p>
           <p className="text-right text-pink-400 font-semibold">
             With Best Wishes ❤️
