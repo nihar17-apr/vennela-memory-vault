@@ -46,7 +46,7 @@ export default function Login({ onLoginSuccess }) {
     const normalizedUsername = username.trim().toLowerCase();
     const normalizedPassword = password.trim();
 
-    const isVennela = normalizedUsername === 'vennela' && normalizedPassword === '28062006';
+    const isVennela = normalizedUsername === 'VENNELA' && normalizedPassword === '28062006';
     const isNihar = normalizedUsername === 'nihar' && normalizedPassword === '17042006';
 
     if (isVennela || isNihar) {
