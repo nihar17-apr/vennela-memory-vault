@@ -9,7 +9,7 @@ export default function SpecialMessage() {
 
         <div className="text-lg leading-10 text-gray-200 space-y-6">
           <p>
-            Please ee letter full gah chadvuu chala peddadhi gane okasarii nakosam chadvuu...nuvvu chadvuthe chala happy...
+            Please ee letter full gah chadvuu chala peddadhi gane okasarii nakosam chadvuu...nuvvu chadvuthe chala...
             nenu nammukunnah hardword ,efforts tappah na vipu emi ledhu oka luck ledhu neku na meda feelings levu emi ledhu naku vunnadhi oka hardwork , efforts anthee nekosam pettinavi 
             nekosam nenu yenthah hardwork ayinah efforts ayinah pedathah nuvvu nakosam ah feelings ni luck ni icheyochu gah vennela..endulo feelings anthe nee love luck anthe nuvvu
             ave eppudu ki odhleykundhah chusthah...
@@ -65,10 +65,19 @@ export default function SpecialMessage() {
             relation ki mundhu vunthay oka sarii okay cheppeysthe mind free gah vuntade ...enko sari aduguthunnah vennela oka sarii only nannu  mind lo nannu accept chey 
             heartfull gah enkah last min varuku ne tho ardam chesukoni vunthah.........
           </p>
+
+          <p>
+            mee daddy nunchi emi ayinah idhi workout avvadhu anukunthee daniki nuvvu naku okayy anthee chalu remaining anthah nenu chusukunthah chala akkuvah alochisthunnah nenu kani neku vunnah fear povali na medah trust ravali anthe ani side nunchi neku trust ivali ichinah trust nenu marchiponu grthuvunchukuntah....
+            oka sariii okayy anthe ila nee pelli varuku love chesukokundhah love chesukunnah vallu lagah love ni edaram ichukunthe may be vundipotham life long nenu enko ammayi vipu nenu vellahlenu mind lo heart lo roots lagah vundipoyvu 
+            neku idhi stress lagah tesukokundhah na pi oka positive gah chusi alochinchavu anuko pakkah Hi pedathavu 99percent idhi chusakah block cheseysthavu ala 
+            chyaku nenu msg chyanu nuvvu cheseyvaruku nee thoughts nunchi nenu bayataki vellalenu gane msg chykundhah vundadaniki try chesthah 
+            fast gah msg chesey vennela nuvvu gane chesthe na drives chala baga avuthay mind anthah prasanthagah vuntadee ni studies kudah nenu distrub chyanu nuvvu 
+            eppudu reply isthee appudeyy matldathan nuvvu emi cheppinah vintah promise ne meda.....
+          </p>
           <p>
             SUMMMARY:- EE letter chudadaniki peddagah vundi roju rasi rasi pedadhi aipothundi nuvvu idhi chadviahkah naku oka chance ivali ani anukunthe edaram oka understnad tho ne pelli age varuku happy gah vuntee neku Hi ani oka message chymannah 
-            dani tho nee life ni eppudu varuku na valla hurt ayinavi grthuchesukonivanu anthah happy gah vunchuthah.. neku istham lekpothe naku emi msg pettaku idhi ee letter ki ee special message ki reply kudah ivvaku okayy nah...
-
+            dani tho nee life ni eppudu varuku na valla hurt ayinavi grthuchesukonivanu anthah happy gah vunchuthah.. neku istham lekpothe naku emi msg pettaku idhi ee letter ki ee special message ki reply kudah ivvaku...
+            Bayata hostel ani nenu telusukunnah jagratta,manchi job kottiey, enjoyy chey life ni full gah, any problem vunte call chey,time ki thinu health jagratta,All The Best For Your Bright Future...BYE❤️
           </p>
           <p>
             I AM WAITING FOR ONE MESSAGE.....
