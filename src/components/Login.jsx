@@ -50,7 +50,7 @@ export default function Login({ onLoginSuccess }) {
     const isNihar = normalizedUsername === 'nihar' && normalizedPassword === '17042006';
 
     if (isVennela || isNihar) {
-      const userLabel = isVennela ? 'Vennela' : 'Nihar';
+      const userLabel = isVennela ? 'VENNELA' : 'Nihar';
 
       // Fire confetti burst!
       confetti({
