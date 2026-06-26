@@ -67,7 +67,7 @@ export default function Letter() {
             morning good nyts ey pedthunah time ki anthah ki minchi emi matldatledhu
             time tesukoni edhi ayinah maru na kosam okaynah ee letteer oka manchi ending ochindhi aniey anukunthunnah final gah oka promise chesthunah ne tho godvah adakundhah
             vuntah ani chepputhunnah neku eroju nunchi ardam chesukunthah nuvvu eh situation lo vunnah ani  kudah chepputhunah nuvvu just matludhtee chalu anthe enkah migatade 
-            ne dayaah ne prema... endulo emi ayinah noru jari emi ayinah aneysivuntee sorry....
+            ne dayaah ne prema... endulo emi ayinah ninnu hurt chesivuntee sorry....
           </p>
           <p>
             Keep smiling.
