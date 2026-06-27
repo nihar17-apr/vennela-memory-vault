@@ -9,6 +9,7 @@ export default function SpecialMessage() {
 
         <div className="text-lg leading-10 text-gray-200 space-y-6">
           <p>
+            
             Please ee letter full gah chadvuu chala peddadhi gane okasarii nakosam chadvuu...nuvvu chadvuthe chala...
             nenu nammukunnah hardword ,efforts tappah na vipu emi ledhu oka luck ledhu neku na meda feelings levu emi ledhu naku vunnadhi oka hardwork , efforts anthee nekosam pettinavi 
             nekosam nenu yenthah hardwork ayinah efforts ayinah pedathah nuvvu nakosam ah feelings ni luck ni icheyochu gah vennela..endulo feelings anthe nee love luck anthe nuvvu
@@ -63,7 +64,7 @@ export default function SpecialMessage() {
             ninnu ibbandhi pettali ani kadhu enkah deni grunchii akkuvah alochinchaku placements vunnay gah nenu idhi pettindhii ee website chusii ventaneyy accept cheseythavu ani chesah ...kanii emo cheppahlenu emi jargutadhoo 
             oka sari nannu accept cheseythee enkah naa brain lo sagam tension potade roju okalanthi alochanalu ravuu vennela accept chesthadah chydahah ? ani alochinchi alochinchi over thinker aipoyah idhi antha ...
             relation ki mundhu vunthay oka sarii okay cheppeysthe mind free gah vuntade ...enko sari aduguthunnah vennela oka sarii only nannu  mind lo nannu accept chey 
-            heartfull gah enkah last min varuku ne tho ardam chesukoni vunthah.........
+            heartfull gah enkah last min varuku ne tho ardam chesukoni vunthah.........idhi anthah chusi enduku chesavu ani matram adgaku ee letter special message nachakpoyinah neku nacheydhi pics enkah birthday special ee rendu nachuthay..
           </p>
 
           <p>
@@ -80,8 +81,9 @@ export default function SpecialMessage() {
             vennela mari radhu rah nee life lo vundadhu rah ani anthunnaru vennela answer ledhu na dagrah daniki oka chance naku ivu life long ninnu ibbandhi pettakundhah happy gah chuskunthah..
             idhi chusahkah neku oka chance ivali anipisthe msg chey ledhah oka msg pettaku deniki reply kudah ivvaku... no cheppindhi vinni vinni enkah mari vinali ani ledhu nuvvu answer ishte okayy ledhah mari reply pettaku idhi 
             fast process kadhu take ur time neku nachinappudu okayy ledhah nenu ee website pettah ani marchipo enkah msg chydam kudah kashtam gah vunnah chyanu...Block ayite cheyku sareyy nah...
+            
           </p>
-
+          
           <p>
             SUMMMARY:- EE letter chudadaniki peddagah vundi roju rasi rasi pedadhi aipothundi nuvvu idhi chadviahkah naku oka chance ivali ani anukunthe edaram oka understnad tho ne pelli age varuku happy gah vuntee neku Hi ani oka message chymannah 
             dani tho nee life ni eppudu varuku na valla hurt ayinavi grthuchesukonivanu anthah happy gah vunchuthah.. neku istham lekpothe naku emi msg pettaku idhi ee letter ki ee special message ki reply kudah ivvaku...
