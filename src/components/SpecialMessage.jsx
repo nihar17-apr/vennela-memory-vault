@@ -72,7 +72,11 @@ export default function SpecialMessage() {
             neku idhi stress lagah tesukokundhah na pi oka positive gah chusi alochinchavu anuko pakkah Hi pedathavu 99percent idhi chusakah block cheseysthavu ala 
             chyaku nenu msg chyanu nuvvu cheseyvaruku nee thoughts nunchi nenu bayataki vellalenu gane msg chykundhah vundadaniki try chesthah 
             fast gah msg chesey vennela nuvvu gane chesthe na drives chala baga avuthay mind anthah prasanthagah vuntadee ni studies kudah nenu distrub chyanu nuvvu 
-            eppudu reply isthee appudeyy matldathan nuvvu emi cheppinah vintah promise ne meda.....
+            eppudu reply isthee appudeyy matldathan nuvvu emi cheppinah vintah enkah nenu appudu annah  bad words kudah use chyanu mottam maneysthah ave enkah eppudu
+            use chyanu promise ne medah emi bad vunte ani maneysthah neku nachindhi nenu chesthah chudu ippudu yelah matlduthunah nenu chala patience gah wait chesthunah reply isthunnah
+            kopam asalu radhu prathidhi ardam chesukunthah enthah lah nenu evariki adgaledhu vennela mata medah vuntah vennela promise vesah kadhah ne medah adhi kudah tappanuu.....
+            Neku vunnah eyy goals ayinah nenu support chesthah edhi ayinah control lo pettanu possessiveness chupinchanu enkah full love caring enkah edhi manchi ayite adhi ey vuntadee 
+            Idhi matram evariki pettaku chala personal letter anthah chusakah delete cheseyy ganee okaliki pettaku nannu pichi vadini anukuntharuu enthah rasadu enti ah ani...
           </p>
           <p>
             SUMMMARY:- EE letter chudadaniki peddagah vundi roju rasi rasi pedadhi aipothundi nuvvu idhi chadviahkah naku oka chance ivali ani anukunthe edaram oka understnad tho ne pelli age varuku happy gah vuntee neku Hi ani oka message chymannah 
