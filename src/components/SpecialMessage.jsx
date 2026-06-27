@@ -67,6 +67,8 @@ export default function SpecialMessage() {
           </p>
 
           <p>
+            na studies grunchi osthee nenu 2_2 lo oka subject fail ayiyah kadhah adhi revalutaion lo pettah adhi pass ayipoyah enkah 3_1 nunchi 
+            na best ichah 3_1 lo 9.33 and 3_2 lo 9.52 okadaney vunnah kadhah life lo enjoyment kolipoyah nuvvu lekah okadaney emi chyaloo ardam ayieydhi kadhu chadvinah time lo chadivah nuvvu duram aipothunnavu ani ninnu bagah miss ayiyah grthutechukunnah naku manchi job ravali ani korukoo ee july or august month loo..neku manchi job ocheysthee enkah full happy..
             mee daddy nunchi emi ayinah idhi workout avvadhu anukunthee daniki nuvvu naku okayy anthee chalu remaining anthah nenu chusukunthah chala akkuvah alochisthunnah nenu kani neku vunnah fear povali na medah trust enkah feelings ravali
             anthe ani sidelu nunchi neku trust ivali ichinah trust nenu marchiponu grthuvunchukuntah....
             oka sariii okayy anthe ila nee pelli varuku love chesukokundhah love chesukunnah vallu lagah love ni edaram ichukunthe may be vundipotham life long nuvvu mind lo heart lo roots lagah paathukupoyavuu

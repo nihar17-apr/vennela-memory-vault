@@ -80,7 +80,6 @@ export default function Letter() {
         </div>
       </div>
     </div>
-
   );
 }
 
