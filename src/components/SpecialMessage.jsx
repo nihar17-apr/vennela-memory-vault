@@ -17,7 +17,7 @@ export default function SpecialMessage() {
             matalu nuvvu duram aipothavu emo ani kopam lo istham ochinah 
             matalu  aneysah oka chance ivu vennela ninnu ardam chesukoni vunthah kopam yekadah chupinchaloo teliduu ninnu chala matalu aneysah okapakkah neku
             pelli chestharu emo ani bayam maruoo pakkah nuvvu neat gah vundatledhu naku nuvvu chala chala important oka unbreakable bond ayipoyindhi naku ne tho...
-            nuvvu emi annah nenu barishthah ardam chesukoni vunthah godvalu adanu neku edhi ayitee nachadhoo adhi chyanu na medah neku na feelings ocheylah emi ayinah chesthah vennela
+            nuvvu emi annah nenu  ardam chesukoni vunthah godvalu adanu neku edhi ayitee nachadhoo adhi chyanu na medah neku na feelings ocheylah emi ayinah chesthah vennela
             naku ayitee ninnu lifelong ne tho  vundali ani vundi direct gah cheppali anthe pelli chesukovali ... nuvvu nannu enduku tesukolekothunnavoo telidu kani ninnu ayitee ardam
             chesukunthah na prema agadhu na opinion maradhu neku ichey value maradhu neku ichey priorites maravu.. Idhi chusiahkah nenu ayitee msg chyanu nuvvu unblock lo 
             vunchu eppudu ayitenuvvu naku oka msg chesthavooo nenu ne  dagrah eppuduki odhlakundhah vundipodaniki ready gah  vunthah vennela 
@@ -79,13 +79,15 @@ export default function SpecialMessage() {
             Idhi matram evariki pettaku chala personal letter anthah chusakah delete cheseyy ganee okaliki pettaku nannu pichi vadini anukuntharuu enthah rasadu enti ah ani...andaru naku 
             vennela mari radhu rah nee life lo vundadhu rah ani anthunnaru vennela answer ledhu na dagrah daniki oka chance naku ivu life long ninnu ibbandhi pettakundhah happy gah chuskunthah..
             idhi chusahkah neku oka chance ivali anipisthe msg chey ledhah oka msg pettaku deniki reply kudah ivvaku... no cheppindhi vinni vinni enkah mari vinali ani ledhu nuvvu answer ishte okayy ledhah mari reply pettaku idhi 
-            fast process kadhu take ur time neku nachinappudu okayy ledhah nenu ee website pettah ani marchipo enkah msg chydam kudah kashtam gah vunnah chyanu...
+            fast process kadhu take ur time neku nachinappudu okayy ledhah nenu ee website pettah ani marchipo enkah msg chydam kudah kashtam gah vunnah chyanu...Block ayite cheyku sareyy nah...
           </p>
+
           <p>
             SUMMMARY:- EE letter chudadaniki peddagah vundi roju rasi rasi pedadhi aipothundi nuvvu idhi chadviahkah naku oka chance ivali ani anukunthe edaram oka understnad tho ne pelli age varuku happy gah vuntee neku Hi ani oka message chymannah 
             dani tho nee life ni eppudu varuku na valla hurt ayinavi grthuchesukonivanu anthah happy gah vunchuthah.. neku istham lekpothe naku emi msg pettaku idhi ee letter ki ee special message ki reply kudah ivvaku...
             Bayata hostel ani nenu telusukunnah jagratta,manchi job kottiey, enjoyy chey life ni full gah, any problem vunte call chey,time ki thinu health jagratta,All The Best For Your Bright Future...BYE❤️
           </p>
+
           <p>
             I AM WAITING FOR ONE MESSAGE.....
           </p>
