@@ -9,14 +9,13 @@ export default function SpecialMessage() {
 
         <div className="text-lg leading-10 text-gray-200 space-y-6">
           <p>
-            
-            Please ee letter full gah chadvuu chala peddadhi gane okasarii nakosam chadvuu...nuvvu chadvuthe chala...
+            Please ee letter full gah chadvuu chala peddadhi gane okasarii nakosam chadvuu...nuvvu chadvuthe chalu...
             nenu nammukunnah hardword ,efforts tappah na vipu emi ledhu oka luck ledhu neku na meda feelings levu emi ledhu naku vunnadhi oka hardwork , efforts anthee nekosam pettinavi 
             nekosam nenu yenthah hardwork ayinah efforts ayinah pedathah nuvvu nakosam ah feelings ni luck ni icheyochu gah vennela..endulo feelings anthe nee love luck anthe nuvvu
             ave eppudu ki odhleykundhah chusthah...
             Ninnu oct lo annah matlauu chala gorrangah annah kani adhi naku kopam lo ochinah ninnu ardam chesukokundhah ochinah 
             matalu nuvvu duram aipothavu emo ani kopam lo istham ochinah 
-            matalu  aneysah oka chance ivu vennela ninnu ardam chesukoni vunthah kopam yekadah chupinchaloo teliduu ninnu chala matalu aneysah okapakkah neku
+            matalu  aneysah and ah bad words eppudu ki use chyanu ne meda promise nenu bad words maneysah oka chance ivu vennela ninnu ardam chesukoni vunthah kopam yekadah chupinchaloo teliduu ninnu chala matalu aneysah okapakkah neku
             pelli chestharu emo ani bayam maruoo pakkah nuvvu neat gah vundatledhu naku nuvvu chala chala important oka unbreakable bond ayipoyindhi naku ne tho...
             nuvvu emi annah nenu  ardam chesukoni vunthah godvalu adanu neku edhi ayitee nachadhoo adhi chyanu na medah neku na feelings ocheylah emi ayinah chesthah vennela
             naku ayitee ninnu lifelong ne tho  vundali ani vundi direct gah cheppali anthe pelli chesukovali ... nuvvu nannu enduku tesukolekothunnavoo telidu kani ninnu ayitee ardam
@@ -68,8 +67,9 @@ export default function SpecialMessage() {
           </p>
 
           <p>
-            mee daddy nunchi emi ayinah idhi workout avvadhu anukunthee daniki nuvvu naku okayy anthee chalu remaining anthah nenu chusukunthah chala akkuvah alochisthunnah nenu kani neku vunnah fear povali na medah trust ravali anthe ani side nunchi neku trust ivali ichinah trust nenu marchiponu grthuvunchukuntah....
-            oka sariii okayy anthe ila nee pelli varuku love chesukokundhah love chesukunnah vallu lagah love ni edaram ichukunthe may be vundipotham life long nenu enko ammayi vipu nenu vellahlenu mind lo heart lo roots lagah vundipoyvu 
+            mee daddy nunchi emi ayinah idhi workout avvadhu anukunthee daniki nuvvu naku okayy anthee chalu remaining anthah nenu chusukunthah chala akkuvah alochisthunnah nenu kani neku vunnah fear povali na medah trust enkah feelings ravali
+            anthe ani sidelu nunchi neku trust ivali ichinah trust nenu marchiponu grthuvunchukuntah....
+            oka sariii okayy anthe ila nee pelli varuku love chesukokundhah love chesukunnah vallu lagah love ni edaram ichukunthe may be vundipotham life long nuvvu mind lo heart lo roots lagah paathukupoyavuu
             neku idhi stress lagah tesukokundhah na pi oka positive gah chusi alochinchavu anuko pakkah Hi pedathavu 99percent idhi chusakah block cheseysthavu ala 
             chyaku nenu msg chyanu nuvvu cheseyvaruku nee thoughts nunchi nenu bayataki vellalenu gane msg chykundhah vundadaniki try chesthah 
             fast gah msg chesey vennela nuvvu gane chesthe na drives chala baga avuthay mind anthah prasanthagah vuntadee ni studies kudah nenu distrub chyanu nuvvu 
@@ -79,9 +79,9 @@ export default function SpecialMessage() {
             Neku vunnah eyy goals ayinah nenu support chesthah edhi ayinah control lo pettanu possessiveness chupinchanu enkah full love caring enkah edhi manchi ayite adhi ey vuntadee 
             Idhi matram evariki pettaku chala personal letter anthah chusakah delete cheseyy ganee okaliki pettaku nannu pichi vadini anukuntharuu enthah rasadu enti ah ani...andaru naku 
             vennela mari radhu rah nee life lo vundadhu rah ani anthunnaru vennela answer ledhu na dagrah daniki oka chance naku ivu life long ninnu ibbandhi pettakundhah happy gah chuskunthah..
-            idhi chusahkah neku oka chance ivali anipisthe msg chey ledhah oka msg pettaku deniki reply kudah ivvaku... no cheppindhi vinni vinni enkah mari vinali ani ledhu nuvvu answer ishte okayy ledhah mari reply pettaku idhi 
+            idhi chusahkah neku oka chance ivali anipisthe msg chey ledhah oka msg pettaku deniki reply kudah ivvaku... no cheppindhi vinni vinni enkah mari vinali ani ledhu 
+            nuvvu answer ishte okayy ledhah mari reply pettaku idhi 
             fast process kadhu take ur time neku nachinappudu okayy ledhah nenu ee website pettah ani marchipo enkah msg chydam kudah kashtam gah vunnah chyanu...Block ayite cheyku sareyy nah...
-            
           </p>
           
           <p>
